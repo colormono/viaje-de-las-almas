@@ -1,7 +1,7 @@
 {
   "name": "viaje-de-las-almas",
   "version": "1.0.0",
-  "description": "",
+  "description": "By Ignacio Juan",
   "main": "index.html",
   "scripts": {
     "start": "serve",
